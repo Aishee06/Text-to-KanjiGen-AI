@@ -1,0 +1,1 @@
+# Text-to-KanjiGen-AI
